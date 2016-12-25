@@ -1,0 +1,60 @@
+<resources>
+
+    // Titulo
+
+    <string name="app_name">Monitoramento e gestão de energia</string>
+
+    // Fim titulo
+
+    // Monitoramento e gestão de energia
+
+    <string name="medicoes">Medições</string>
+    <string name="tensao">Tensão elétrica (V): </string>
+    <string name="corrente">Corrente elétrica (A): </string>
+
+    <string name="calc">Potência (KW)</string>
+    <string name="watts">KW: </string>
+
+    <string name="med_ten">.</string>
+    <string name="med_cor">.</string>
+    <string name="med_kw">.</string>
+
+    // Fim monitoramento e gestão de energia
+
+    // Monitoramento e gestão de luminosidade
+
+    <string name="eng">Engenharia</string>
+    <string name="fab">Fábrica</string>
+
+    <string name="inten">Intensidade</string>
+    <string name="baixo">Baixo</string>
+    <string name="medio">Médio</string>
+    <string name="alto">Alto</string>
+
+    <string name="lig">Ligado</string>
+    <string name="desl">Desligado</string>
+
+    // Fim monitoramento e gestão de energia
+
+    // Monitoramento e gestão hidráulica
+
+    <string name="aberta">Ligada</string>
+    <string name="fechada">Desligada</string>
+
+    <string name="valv">Bomba hidráulica</string>
+    <string name="L_h">Consumo de água: </string>
+
+    // Fim monitoramento e gestão hidráulica
+
+    // Configurações de menu
+
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+
+    <string name="action_settings">Configurações</string>
+
+    // Fim configurações de menu
+
+</resources>
