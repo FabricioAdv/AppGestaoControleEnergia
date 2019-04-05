@@ -1,4 +1,4 @@
-# Gestão e controle de energia atraves de aplicativos de celular
+# Gestão e controle de energia através de aplicativos de celular
 Este projeto tem como função auxiliar pessoas em suas residências a terem o total controle de seus gastos com consumo de energia,
 e tambem possibilitar o controle do mesmo.
 
