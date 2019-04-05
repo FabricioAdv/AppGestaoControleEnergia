@@ -1,23 +1,20 @@
-# Gestao e controle de energia atraves de aplicativos de celular
-Este projeto tem como funcao auxiliar pessoas em suas residencias a terem o total controle de seus gastos com consumo de energia,
+# Gestão e controle de energia atraves de aplicativos de celular
+Este projeto tem como função auxiliar pessoas em suas residências a terem o total controle de seus gastos com consumo de energia,
 e tambem possibilitar o controle do mesmo.
 
-:Autor: Fabricio Lima
+:Autor: Fabricio Lima </br>
+:Email: fabricio_lima_carvalho@hotmail.com </br>
+:Data: 1/12/2015 </br>
+:Revisao: 2.0 </br>
 
-:Email: fabricio_lima_carvalho@hotmail.com
-
-:Data: 1/12/2015
-
-:Revisao: 2.0
-
-== Passo 1: Instalacao
+== Passo 1: Instalação
 
 1. Abra o arquivo "Programacao_arduino";
-2. Faca as modificacoes necessarias para que se adequem a montagem de sua estrutura de sua casa;
-3. Faca as modificacoes necessarias para que se adequem ao ip do ser roteador;
+2. Faca as modificações necessárias para que se adequem a montagem de sua estrutura de sua casa;
+3. Faca as modificações necessárias para que se adequem ao IP do ser roteador;
 4. Abra o arquivo "Prog_adr_stud"; (Android Studio);
-5. Faca as modificacoes necessarias para que se adequem a montagem de sua estrutura de sua casa;
-6. Faca as modificacoes necessarias para que se adequem ao ip do ser roteador;
+5. Faca as modificações necessárias para que se adequem a montagem de sua estrutura de sua casa;
+6. Faca as modificações necessárias para que se adequem ao IP do ser roteador;
 
 == Passo 2: Montagem do circuito
 
@@ -27,7 +24,7 @@ Monte o circuito conforme o diagrama a seguir.
 
 == Passo 3: Carregar arquivo ao arduino
 
-Carregue a programacao para o arduino
+Carregue a programação para o arduino
 
 === Estrutura de arquivos
 
@@ -47,6 +44,6 @@ Carregue a programacao para o arduino
 
 ....
 
-=== Contribuicoes
+=== Contribuições
 
 Para contribuir com esse projeto, por favor contate Fabricio Lima - fabricio_lima_carvalho@hotmail.com
