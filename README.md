@@ -1,4 +1,6 @@
-:Projeto: Gestao e controle de energia atraves de aplicativos de celular
+# Gestao e controle de energia atraves de aplicativos de celular
+Este projeto tem como funcao auxiliar pessoas em suas residencias a terem o total controle de seus gastos com consumo de energia,
+e tambem possibilitar o controle do mesmo.
 
 :Autor: Fabricio Lima
 
@@ -7,13 +9,6 @@
 :Data: 1/12/2015
 
 :Revisao: 2.0
-
-= Projeto: Gestao e controle de energia atraves de aplicativos de celular
-
-Descricao de projeto
-
-Este projeto tem como funcao auxiliar pessoas em suas residencias a terem o total controle de seus gastos com consumo de energia,
-e tambem possibilitar o controle do mesmo.
 
 == Passo 1: Instalacao
 
