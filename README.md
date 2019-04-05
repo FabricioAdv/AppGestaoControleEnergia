@@ -5,16 +5,16 @@ e tambem possibilitar o controle do mesmo.
 :Autor: Fabricio Lima </br>
 :Email: fabricio_lima_carvalho@hotmail.com </br>
 :Data: 1/12/2015 </br>
-:Revisao: 2.0 </br>
+:Revisão: 2.0 </br>
 
 == Passo 1: Instalação
 
 1. Abra o arquivo "Programacao_arduino";
-2. Faca as modificações necessárias para que se adequem a montagem de sua estrutura de sua casa;
-3. Faca as modificações necessárias para que se adequem ao IP do ser roteador;
+2. Faça as modificações necessárias para que se adequem a montagem de sua estrutura de sua casa;
+3. Faça as modificações necessárias para que se adequem ao IP do ser roteador;
 4. Abra o arquivo "Prog_adr_stud"; (Android Studio);
-5. Faca as modificações necessárias para que se adequem a montagem de sua estrutura de sua casa;
-6. Faca as modificações necessárias para que se adequem ao IP do ser roteador;
+5. Faça as modificações necessárias para que se adequem a montagem de sua estrutura de sua casa;
+6. Faça as modificações necessárias para que se adequem ao IP do ser roteador;
 
 == Passo 2: Montagem do circuito
 
@@ -30,15 +30,15 @@ Carregue a programação para o arduino
 
 ....
 
- Programacao_arduino          => Pasta da programacao do Arduino
+ Programacao_arduino          => Pasta da programação do Arduino
  
  +-- Programacao_arduino.ino  => Arquivo principal do Arduino
  
- Prog_adr_stud                => Pasta da programacao do Android Studio (mais facilmente aberto pelo proprio programa)
+ Prog_adr_stud                => Pasta da programação do Android Studio (mais facilmente aberto pelo proprio programa)
  
  Imagens                      => Pasta do esquema eletrico
  
- +-- Esquema eletrico.pdf     => (opcional) Esquema eletrico para montagem do circuito
+ +-- Esquema eletrico.pdf     => (opcional) Esquema elétrico para montagem do circuito
  
  README.md                    => Este arquivo
 
