@@ -30,9 +30,9 @@ Carregue a programação para o arduino
 
 ....
 
- Programacao_arduino          => Pasta da programação do Arduino
+ Programacao_arduino          => Pasta da programação do arduino
  
- +-- Programacao_arduino.ino  => Arquivo principal do Arduino
+ +-- Programacao_arduino.ino  => Arquivo principal do arduino
  
  Prog_adr_stud                => Pasta da programação do Android Studio (mais facilmente aberto pelo proprio programa)
  
