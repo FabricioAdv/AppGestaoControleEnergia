@@ -30,14 +30,12 @@ Carregue a programação para o arduino
 
 ....
 
- Programacao_arduino          => Pasta da programação do arduino
- 
+ Programacao_arduino          => Pasta da programação do arduino </br>
  +-- Programacao_arduino.ino  => Arquivo principal do arduino
  
  Prog_adr_stud                => Pasta da programação do Android Studio (mais facilmente aberto pelo proprio programa)
  
- Imagens                      => Pasta do esquema eletrico
- 
+ Imagens                      => Pasta do esquema eletrico </br>
  +-- Esquema eletrico.pdf     => (opcional) Esquema elétrico para montagem do circuito
  
  README.md                    => Este arquivo
